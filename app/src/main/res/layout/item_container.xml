@@ -36,11 +36,11 @@
                 android:layout_marginEnd="@dimen/_10sdp"
                 android:layout_marginStart="@dimen/_10sdp"
                 android:layout_marginTop="@dimen/_10sdp"
-                android:fontFamily="sans-serif-medium"
+                android:fontFamily="@font/arvo_bold"
                 android:includeFontPadding="true"
                 android:text="Headline"
                 android:textColor="@color/white"
-                android:textSize="@dimen/_24sdp" />
+                android:textSize="@dimen/textSizeTitle" />
 
             <TextView
                 android:id="@+id/desc"
@@ -50,12 +50,12 @@
                 android:layout_marginStart="@dimen/_10sdp"
                 android:layout_marginTop="@dimen/_8sdp"
                 android:ellipsize="end"
-                android:fontFamily="sans-serif-light"
+                android:fontFamily="@font/arvo"
                 android:includeFontPadding="true"
                 android:maxLines="3"
                 android:text="Description"
                 android:textColor="@color/background"
-                android:textSize="@dimen/_18sdp" />
+                android:textSize="@dimen/textSixTeen" />
 
         </LinearLayout>
 
