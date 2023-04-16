@@ -14,3 +14,5 @@ API Used - NewsAPI
 Video Link : https://drive.google.com/file/d/115B8O9tAWGp7w-llAGFS69vihKUV86Ea/view?usp=sharing
 
 Steps to Installing App on Your Device : In Android Studio, Go to Build -> Build Bundle/Apk -> Build Apk then Install that app manually on your device
+
+App Link : https://drive.google.com/file/d/1LRnNDLR_GLZpsPUcGM_niQRX_aiu5Zsb/view?usp=sharing
